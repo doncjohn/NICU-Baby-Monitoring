@@ -1,2 +1,2 @@
 # NICU-BABY-MONITORING
-A BABY MONITORING PROJECT
+Baby Monitoring integrated with Neonatal Intensive Care Unit (NICU)
